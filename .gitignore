@@ -65,3 +65,4 @@ typings/
 
 # Emacs auto-save file
 \#*#
+/.idea/git_toolbox_blame.xml
